@@ -2,6 +2,21 @@
 
 A deep learning powered web app that classifies fruit images as **Fresh**, **Rotten**, or **Formalin-mixed** (chemically adulterated) using a Convolutional Neural Network trained with PyTorch, served through a FastAPI backend.
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3.10-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Uvicorn-2A2A2A?style=for-the-badge&logo=gunicorn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pillow-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/github/license/your-username/your-repo-name?style=flat-square" />
+  <img src="https://img.shields.io/github/last-commit/your-username/your-repo-name?style=flat-square" />
+  <img src="https://img.shields.io/github/stars/your-username/your-repo-name?style=flat-square" />
+</p>
+
 ---
 
 ## 🎥 Demo
@@ -164,9 +179,17 @@ Open `data_preprocessing_and_model_training.ipynb` in Jupyter and run all cells 
 
 ## 🧰 Tech Stack
 
-- **Python**, **PyTorch**, **Torchvision**
-- **FastAPI**, **Uvicorn**, **Jinja2**
-- **Pillow** for image processing
+<p align="left">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Torchvision-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Uvicorn-2A2A2A?style=flat-square&logo=gunicorn&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Jinja2-B41717?style=flat-square&logo=jinja&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Pillow-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+</p>
 
 ---
 
