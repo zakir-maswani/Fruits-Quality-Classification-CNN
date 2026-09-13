@@ -12,9 +12,9 @@ A deep learning powered web app that classifies fruit images as **Fresh**, **Rot
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/github/license/your-username/your-repo-name?style=flat-square" />
-  <img src="https://img.shields.io/github/last-commit/your-username/your-repo-name?style=flat-square" />
-  <img src="https://img.shields.io/github/stars/your-username/your-repo-name?style=flat-square" />
+  <img src="https://img.shields.io/github/license/zakir-maswani/Fruits-Quality-Classification-CNN?style=flat-square" />
+  <img src="https://img.shields.io/github/last-commit/zakir-maswani/Fruits-Quality-Classification-CNN?style=flat-square" />
+  <img src="https://img.shields.io/github/stars/zakir-maswani/Fruits-Quality-Classification-CNN?style=flat-square" />
 </p>
 
 ---
