@@ -18,7 +18,6 @@ A deep learning powered web app that classifies fruit images as **Fresh**, **Rot
 </p>
 
 ---
-
 ## 🎥 Demo
 
 [![Demo Video](frontend.png)](fruits_quality_classifier.mp4)
@@ -109,7 +108,7 @@ A custom PyTorch `Dataset` class walks each fruit folder and labels every image 
 1. Clone the repository
    ```bash
    git clone https://github.com/<zakir-maswani>/<Fruits-Quality-Classification-CNN>.git
-   cd <your-repo-name>
+   cd <Fruits-Quality-Classification-CNN>
    ```
 
 2. Create a virtual environment (recommended)
