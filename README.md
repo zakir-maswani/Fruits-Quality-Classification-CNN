@@ -112,7 +112,7 @@ A custom PyTorch `Dataset` class walks each fruit folder and labels every image 
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
+   git clone https://github.com/<zakir-maswani>/<Fruits-Quality-Classification-CNN>.git
    cd <your-repo-name>
    ```
 
