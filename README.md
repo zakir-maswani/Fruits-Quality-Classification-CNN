@@ -21,7 +21,7 @@ A deep learning powered web app that classifies fruit images as **Fresh**, **Rot
 
 ## 🎥 Demo
 
-[![Demo Video](assets/demo-thumbnail.png)](fruits_quality_classifier.mp4)
+[![Demo Video](frontend.png)](fruits_quality_classifier.mp4)
 ---
 
 ## 📖 Overview
