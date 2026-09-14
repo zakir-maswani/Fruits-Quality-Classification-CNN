@@ -10,13 +10,6 @@ A deep learning powered web app that classifies fruit images as **Fresh**, **Rot
   <img src="https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white" />
   <img src="https://img.shields.io/badge/Pillow-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
-
-<p align="left">
-  <img src="https://img.shields.io/github/license/zakir-maswani/Fruits-Quality-Classification-CNN?style=flat-square" />
-  <img src="https://img.shields.io/github/last-commit/zakir-maswani/Fruits-Quality-Classification-CNN?style=flat-square" />
-  <img src="https://img.shields.io/github/stars/zakir-maswani/Fruits-Quality-Classification-CNN?style=flat-square" />
-</p>
-
 ---
 ## 🎥 Demo
 
@@ -49,12 +42,11 @@ The trained model is deployed behind a simple FastAPI web app where users can up
 
 ```
 .
-├── data_preprocessing_and_model_training.ipynb   # Data loading, CNN architecture, training loop
-├── main.py                                       # FastAPI app serving the trained model
-├── fruit_quality_and_adulteration_classifier.pth # Trained model weights (not committed if large)
-├── templates/
-│   └── index.html                                # Upload UI
-├── static/                                        # CSS/JS/assets for the front-end
+├── data_preprocessing_and_model_training.ipynb   
+├── main.py                                       
+├── fruit_quality_and_adulteration_classifier.pth 
+│   └── index.html                                
+├── static/                                        
 ├── requirements.txt
 └── README.md
 ```
@@ -196,4 +188,4 @@ This project is licensed under the MIT License — feel free to use and modify i
 
 ## 🙋 Author
 
-Built by *(your name)* — feel free to connect or raise an issue if you find a bug!
+Built by *(Zakir Ali | ML Engineer)* — feel free to connect or raise an issue if you find a bug!
