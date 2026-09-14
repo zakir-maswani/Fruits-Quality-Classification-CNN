@@ -11,9 +11,11 @@ A deep learning powered web app that classifies fruit images as **Fresh**, **Rot
   <img src="https://img.shields.io/badge/Pillow-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 ---
+
 ## 🎥 Demo
 
 [![Demo Video](frontend.png)](fruits_quality_classifier.mp4)
+
 ---
 
 ## 📖 Overview
