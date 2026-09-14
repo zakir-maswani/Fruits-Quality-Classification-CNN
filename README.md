@@ -24,8 +24,6 @@ Fruit adulteration (e.g. injecting formalin to artificially extend shelf life) a
 
 - ✅ **Fresh**
 - 🦠 **Rotten**
-- ⚠️ **Formalin-mixed**
-
 The trained model is deployed behind a simple FastAPI web app where users can upload an image and instantly get a prediction with a confidence score.
 
 ---
@@ -67,7 +65,7 @@ Conv2D(32 → 64) → ReLU → MaxPool
 Conv2D(64 → 128) → ReLU → MaxPool
 Flatten
 Linear(16*16*128 → 256) → ReLU
-Linear(256 → 3)   # Formalin-mixed, Fresh, Rotten
+Linear(256 → 2)   # Fresh, Rotten
 ```
 
 - **Input size:** 128x128 RGB images
@@ -84,7 +82,6 @@ Images are organized by fruit type, and within each fruit, by condition:
 Dataset/
 ├── train/
 │   ├── Apple/
-│   │   ├── Formalin-mixed/
 │   │   ├── Fresh/
 │   │   └── Rotten/
 │   ├── Banana/
