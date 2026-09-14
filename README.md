@@ -46,10 +46,14 @@ The trained model is deployed behind a simple FastAPI web app where users can up
 .
 ├── data_preprocessing_and_model_training.ipynb   
 ├── main.py                                       
-├── fruit_quality_and_adulteration_classifier.pth 
+├── templates/
 │   └── index.html                                
-├── static/                                        
+├── static/
+│   ├── style.css
+│   └── script.js                       
 ├── requirements.txt
+├── fruits_quality_classifier.mp4
+├── frontend.png
 └── README.md
 ```
 
